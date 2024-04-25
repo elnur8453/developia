@@ -1,2 +1,2 @@
-# java_2024
+# developiaCourse
  Developia
